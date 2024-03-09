@@ -1,7 +1,7 @@
 // Michael Agnew
 // Project 06, Graphs
 // Project Due Date: November 26th, 2023
-// CPE 212/02, Based Professor James
+// CPE 212/02,
 
 
 
