@@ -1,8 +1,6 @@
 // Michael Agnew 10/25/23
 // CPE 212/02 
-// Based Professor James
-// I hope this project works because it would be kind of cringe if it did not
-// Because it like don't make no sense man
+
 
 
 #include <iostream>
