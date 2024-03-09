@@ -1,6 +1,5 @@
 // CPE 212/02
 // 10/3/2023
-// Based Dr. James
 // Michael Agnew
 
 #include <iostream>
